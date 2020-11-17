@@ -43,7 +43,7 @@ The RTM build number for SQL Server 2019 is `15.0.2000.5`.
 - **Workaround**:
   1. Uninstall any version of SSMS older than SSMS 18.3.1.
   1. Install a newer version of SSMS (18.3.1 or later). For the latest version, see [Download SSMS](../ssms/download-sql-server-management-studio-ssms.md).
-  1. Install [!INCLUDE[SQL Server 2019](../includes/sssqlv15-md.md)] normally.
+  1. Copy installation-files to a local or network drive and Install [!INCLUDE[SQL Server 2019](../includes/sssqlv15-md.md)] normally. 
 
 - **Applies to**: [!INCLUDE[SQL Server 2019](../includes/sssqlv15-md.md)]
 
